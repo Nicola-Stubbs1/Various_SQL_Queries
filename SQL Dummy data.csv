@@ -1,0 +1,97 @@
+date,org_code,org_name,weeks,id,latest_file,waiting_list_type,commisioner_type
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,3,1,1,RTT,English
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,29,2,1,RTT,English
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,7,3,1,RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,15,4,1,NON-RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,8,5,1,NON-RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,1,6,1,NON-RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,7,7,1,RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,19,8,1,RTT,English
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,5,9,1,RTT,English
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,49,10,1,RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,32,11,1,RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,4,12,1,RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,3,13,1,RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,42,14,1,RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,34,15,1,RTT,English
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,18,16,1,RTT,English
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,26,17,1,RTT,English
+2024-01-01,RAE,Bradford Teaching Hospitals Trust,31,18,1,RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,47,19,1,RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,22,20,1,RTT,English
+2024-01-01,RAL,Royal Free London NHS Foundation Trust,11,21,1,RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,9,22,1,RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,33,23,1,RTT,English
+2024-01-01,RL4,The Royal Wolverhampton NHS Trust,34,24,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,8,25,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,12,26,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,15,27,1,RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,12,28,1,RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,52,29,1,RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,15,30,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,23,31,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,35,32,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,29,33,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,45,34,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,7,35,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,31,36,1,RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,30,37,1,NON-RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,27,38,1,NON-RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,8,39,1,NON-RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,20,40,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,4,41,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,41,42,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,34,43,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,42,44,1,RTT,English
+2024-01-08,RAE,Bradford Teaching Hospitals Trust,29,45,1,RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,13,46,1,RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,40,47,1,RTT,English
+2024-01-08,RAL,Royal Free London NHS Foundation Trust,12,48,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,33,49,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,33,50,1,RTT,English
+2024-01-08,RL4,The Royal Wolverhampton NHS Trust,50,51,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,27,52,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,2,53,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,5,54,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,42,55,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,42,56,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,10,57,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,50,58,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,50,59,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,31,60,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,23,61,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,52,62,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,47,63,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,33,64,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,15,65,1,RTT,English
+2024-01-15,RAE,Bradford Teaching Hospitals Trust,29,66,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,4,67,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,12,68,1,RTT,English
+2024-01-15,RL4,The Royal Wolverhampton NHS Trust,43,69,1,RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,9,70,1,NON-RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,33,71,1,NON-RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,34,72,1,NON-RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,10,73,1,RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,38,74,1,RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,33,75,1,RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,29,76,1,RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,20,77,1,RTT,English
+2024-01-22,RAL,Royal Free London NHS Foundation Trust,1,78,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,21,79,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,42,80,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,29,81,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,46,82,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,44,83,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,43,84,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,15,85,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,9,86,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,40,87,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,20,88,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,27,89,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,50,90,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,5,91,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,18,92,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,4,93,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,9,94,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,3,95,1,RTT,English
+2024-01-29,RL4,The Royal Wolverhampton NHS Trust,26,96,1,RTT,English
