@@ -68,10 +68,14 @@ END )
 (
 -- Creates a table where only matches with the Max available date
 SELECT * FROM OpenPath as open 
-full join (SELECT org_code, MAX(date) AS Max_avail_date from OpenPath
-group by org_code) as d
-on open.org_code = d.org_code
-where date = Max_avail_date)
+INNER JOIN 
+(
+SELECT org_code
+,MAX(date) AS Max_avail_date 
+FROM OpenPath
+GROUP BY org_code) AS d --- Nested query to get maximum dates for each org
+ON open.org_code = d.org_code
+WHERE date = Max_avail_date)
 
 -- Basically creating a pivot table of results for maximum week, split by weeks group
 SELECT
